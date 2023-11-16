@@ -3,7 +3,7 @@ setlocal enableextensions
 
 cd %~dp0
 
-set URL=https://github.com/am15h/tflite_flutter_plugin/releases/download/
+set URL=https://github.com/am15h/tflite_flutter_plugin/releases/download
 set TAG=v0.5.0
 
 set ANDROID_DIR=android\app\src\main\jniLibs\
